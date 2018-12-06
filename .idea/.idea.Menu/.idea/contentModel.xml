@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\galax\.Rider2018.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\galax\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\galax\.Rider2018.3\system\resharper-host\Local\Transient\ReSharperHost\v183\SolutionCaches\_Menu.1211841715.00" t="ExcludeRecursive" />
+    <e p="D:\OneDrive For Business\OneDrive - business\Unity\Menu" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="ButtonHandler.cs" t="Include" />
+          <e p="ExitGame.cs" t="Include" />
+          <e p="LoadScene.cs" t="Include" />
+          <e p="SelectMenu.cs" t="Include" />
+          <e p="SetVol.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Menu.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
